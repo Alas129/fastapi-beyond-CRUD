@@ -101,3 +101,5 @@ Set these under **Settings > Secrets and variables > Actions** in your repositor
 
 ## Contributing
 I welcome contributions to improve the documentation! You can contribute [here](https://github.com/jod35/fastapi-beyond-crud-docs).
+
+
